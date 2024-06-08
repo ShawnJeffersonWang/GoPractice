@@ -1,4 +1,4 @@
-package p703
+package main
 
 import (
 	"container/heap"
